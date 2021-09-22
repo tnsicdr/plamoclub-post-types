@@ -3,7 +3,7 @@
  * Plugin Name: Plamo.club Post Types
  * Plugin URI: https://www.github.com/tnsicdr/plamoclub-wp-data
  * Description: Custom Post Types for plamo.club
- * Version: 0.0.1
+ * Version: 0.0.2
  * Requires at least: 5.8
  * Requires PHP: 7.0
  * Author: Thanh Nguyen
