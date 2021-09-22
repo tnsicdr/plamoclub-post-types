@@ -51,8 +51,7 @@ function register_post_type_plmc_kit() {
     
             ),
             'supports' => array(
-                'title',
-                'editor'
+                'title'
             ),
             'public' => true,
             'show_in_rest' => true,
